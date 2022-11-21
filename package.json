@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^0.13.0",
+    "@discordjs/rest": "^0.4.1",
+    "discord-api-types": "^0.32.1",
+    "discord.js": "^13.7.0",
+    "forever": "^4.0.3",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
